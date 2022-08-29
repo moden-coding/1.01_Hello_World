@@ -10,7 +10,6 @@
 # by using a main function as here.
 
 def main():
-    print("Hello, world!")
 
 # This makes sure the main function is not called immediatedly
 # when TMC imports this module
